@@ -8,8 +8,8 @@ export const Container = styled.View`
 `;
 
 export const Title = styled.Text`
-  font-size: 30px;
-  font-weight: bold;
+  font-size: 36px;
+  font-weight: 600;
   color: ${(props) => props.theme.colors["text-color"]};
 `;
 
@@ -20,3 +20,7 @@ export const Subtitle = styled.Text`
   text-align: center;
   margin-top: 10px;
 `;
+
+export const ThemeButton = styled.TouchableOpacity``;
+
+export const DefaultText = styled.Text``;
