@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "meetup-ui-ux",
+    "slug": "meetup-ui-ux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
